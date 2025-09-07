@@ -23,4 +23,4 @@ It combines:
 
 ## Future Improvements
 * Add section-wise summaries (Abstract, Methods, Results)
-* Support multiple documents at once.
+* Support multiple documents at once
