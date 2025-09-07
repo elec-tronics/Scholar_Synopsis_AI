@@ -1,4 +1,5 @@
 # Research Paper Summarizer with RAG (LangChain + Watsonx)
+A Research Paper Summarizer powered by IBM Watsonx and ChromaDB, enabling users to upload PDFs and get concise summaries and answers to queries
 
 ## Overview
 This project is a Retrieval-Augmented Generation (RAG) based application built with LangChain that helps users quickly understand research papers.
@@ -11,7 +12,7 @@ It combines:
 
 * Watsonx LLM (for summarization and Q&A)
 * Watsonx Embeddings (for semantic search in documents)
-* Chroma Vector DB (for storing/retrieving document chunks)
+* Vector database - ChromaDB (for storing/retrieving document chunks)
 * LangChain (for orchestration)
 * Gradio (for user-friendly interface)
 
