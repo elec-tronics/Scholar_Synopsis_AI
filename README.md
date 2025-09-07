@@ -8,7 +8,7 @@ This project is a Retrieval-Augmented Generation (RAG) based application built w
 * The application automatically generates a concise summary
 * Users can then ask questions about the paper (methods, results, key findings, etc.), and the assistant answers using the uploaded document
 
-It combines:
+The project uses the following components:
 
 * Watsonx LLM (for summarization and Q&A)
 * Watsonx Embeddings (for semantic search in documents)
